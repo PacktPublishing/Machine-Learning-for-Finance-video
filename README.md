@@ -1,4 +1,4 @@
-# RESTful Web API Design with Node.js 12
+# Hands-On Machine Learning for Finance[video]
  Published by Packt
 
 This is the code repository for [Machine Learning for Finance [Video]](https://www.packtpub.com/in/data/machine-learning-for-finance-video). It contains all the supporting project files necessary to work through the video course from start to finish.
